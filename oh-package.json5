@@ -1,0 +1,15 @@
+{
+  "name": "healthydiet",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@ohos/axios": "^2.1.1"
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.11"
+  },
+  "dynamicDependencies": {}
+}

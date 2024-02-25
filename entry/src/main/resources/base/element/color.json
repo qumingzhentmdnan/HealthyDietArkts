@@ -1,0 +1,72 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "green",
+      "value": "#02BD79"
+    },
+    {
+      "name": "index_page_background",
+      "value": "#F6F7Fb"
+    },
+    {
+      "name": "opacity_white_CC",
+      "value": "#CCFFFFFF"
+    },
+    {
+      "name": "opacity_white_66",
+      "value": "#66FFFFFF"
+    },
+    {
+      "name": "tab_default",
+      "value": "#DDE0E4"
+    },
+    {
+      "name": "primary_color",
+      "value": "#02BD79"
+    },
+    {
+      "name": "light_primary_color",
+      "value": "#9beda4"
+    },
+    {
+      "name": "lightest_primary_color",
+      "value": "#eafbf5"
+    },
+    {
+      "name": "secondary_color",
+      "value": "#5d907a"
+    },
+    {
+      "name": "gray",
+      "value": "#676c7f"
+    },
+    {
+      "name": "light_gray",
+      "value": "#FFD9D9DB"
+    },
+    {
+      "name": "carbon_color",
+      "value": "#8de2c3"
+    },
+    {
+      "name": "pink",
+      "value": "#ff9c97"
+    },
+    {
+      "name": "fat_color",
+      "value": "#ffcc83"
+    },
+    {
+      "name": "stats_title_bgc",
+      "value": "#FF8FB2FC"
+    },
+    {
+      "name": "jump",
+      "value": "#FFFCFBFB"
+    }
+  ]
+}
